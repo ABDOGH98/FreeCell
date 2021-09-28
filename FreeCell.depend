@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1595075789 source:d:\langage c\sdl\freecell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1595075784 source:d:\langage c\sdl\freecell\mainsdl.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+
+1599725642 source:d:\langage c\naji\freecell\mainsdl.c
+	"mainSDL.h"
+
+1599408623 source:d:\langage c\naji\freecell\main.c
+	"mainSDL.h"
+
+1599724753 d:\langage c\naji\freecell\mainsdl.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SDL2/SDL_ttf.h"
+	<string.h>
+
